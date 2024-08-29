@@ -1,0 +1,16 @@
+streamlit
+altair
+langchain==0.1.20
+git+https://github.com/melih-unsal/DemoGPT.git@main
+langchain_experimental
+langchain-openai==0.0.5
+duckduckgo-search
+tiktoken
+python-dotenv
+unstructured
+pdf2image
+pdfminer-six
+autopep8
+numexpr
+flake8
+termcolor
